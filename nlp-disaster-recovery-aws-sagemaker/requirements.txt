@@ -1,0 +1,7 @@
+
+ipywidgets
+git+https://github.com/huggingface/transformers
+datasets
+sacrebleu
+torch
+sentencepiece
